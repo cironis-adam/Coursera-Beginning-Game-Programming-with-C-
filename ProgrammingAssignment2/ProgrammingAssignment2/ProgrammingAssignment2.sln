@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingAssignment2", "ProgrammingAssignment2\ProgrammingAssignment2.csproj", "{4F84EE2F-49C3-4068-9030-D74DD340BBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F84EE2F-49C3-4068-9030-D74DD340BBDD}.Debug|x86.ActiveCfg = Debug|x86
+		{4F84EE2F-49C3-4068-9030-D74DD340BBDD}.Debug|x86.Build.0 = Debug|x86
+		{4F84EE2F-49C3-4068-9030-D74DD340BBDD}.Release|x86.ActiveCfg = Release|x86
+		{4F84EE2F-49C3-4068-9030-D74DD340BBDD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

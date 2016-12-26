@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment3/ProgrammingAssignment3/Content/graphics/greenrock.png</File>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment3/ProgrammingAssignment3/Content/graphics/magentarock.png</File>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment3/ProgrammingAssignment3/Content/graphics/whiterock.png</File>
+  </SourceFiles>
+</SourceFileCollection>

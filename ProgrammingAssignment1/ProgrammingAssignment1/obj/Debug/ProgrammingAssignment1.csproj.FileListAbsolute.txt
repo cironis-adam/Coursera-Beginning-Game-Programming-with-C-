@@ -1,0 +1,6 @@
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe.config
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csprojResolveAssemblyReference.cache
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
+D:\Adam\Coursera\visual studio 2015\Projects\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb

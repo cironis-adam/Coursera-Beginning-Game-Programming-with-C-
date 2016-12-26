@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2/Content/grahpics/lego-batman-1966-505x600-150x150.jpg</File>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2/Content/grahpics/legosuperman.jpg</File>
+    <File>D:/Adam/Coursera/visual studio 2015/Projects/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2/Content/grahpics/Spiderman-Marvel-Civil-War-LEGO-Minifigures-76051-76067-150x150.png</File>
+  </SourceFiles>
+</SourceFileCollection>
